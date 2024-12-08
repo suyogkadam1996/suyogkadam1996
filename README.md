@@ -4,7 +4,7 @@
 
 🌱 I’m currently working with natural language processing and deep learning projects
 
-💞️ I’m looking to collaborate on open-source projects related to AI, eb development and data science.
+💞️ I’m looking to collaborate on open-source projects related to AI, web development and data science.
 
 📫 How to reach me:
   * Email: suyogbordikar1996@gmail.com
